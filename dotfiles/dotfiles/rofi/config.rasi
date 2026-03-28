@@ -1,0 +1,8 @@
+
+//@theme "/usr/share/rofi/themes/android_notification.rasi"
+
+configuration {
+  font: "Iosevka Nerd Font Bold 13";
+}
+
+//@theme "/nix/store/7v2n1d4ikj13qarw1svavgzphrb1ah04-rofi-2.0.0/share/rofi/themes/android_notification.rasi"
